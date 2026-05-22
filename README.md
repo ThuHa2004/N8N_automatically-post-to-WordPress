@@ -94,7 +94,7 @@ Hệ thống hoạt động theo quy trình sau:
 
 ---
 
-# V. TRIỂN KHAI HỆ THỐNG
+# V. CẬP NHẬT DOCKER COMPOSE & MẠNG TUNNEL
 
 # 1. Truy cập vào thư mục `thuha_wordpress`  (thư mục bài tập 3)
 ## Bổ sung service n8n vào `file docker-compose.yml`
@@ -130,14 +130,46 @@ Chạy lệnh sau để Docker nhận diện service mới và tự động tả
 docker compose up -d
 ```
 
-## Cấu hình thêm Route trên Cloudflare Dashboard
+# 2. Cấu hình thêm Route trên Cloudflare Dashboard
 Đăng nhập vào Cloudflare chọn **Networking -> Tunnels** để cấu hình thêm Route cho **PhpMyAdmin** và **n8n**
-### Thêm route cho PhpMyAdmin và n8n
+## Thêm route cho PhpMyAdmin và n8n
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/647ed627-cff7-4124-9120-8a1874396012" /> <br>
 
 <img width="1616" height="875" alt="image" src="https://github.com/user-attachments/assets/eb65d9dc-4755-4c87-a763-612cd616389f" /> <br>
 
 <img width="1645" height="856" alt="image" src="https://github.com/user-attachments/assets/9ce04ec5-b290-4817-9816-f0e44c97886c" />
+
+## Kết quả truy cập phpmyadmin và n8n bằng tên miền vừa thêm
+```
+pma.tranthithuha.id.vn
+```
+<img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/19de03f7-cce0-4be0-8d3c-d6c490ed51d1" /> <br>
+
+```
+n8n.tranthithuha.id.vn
+```
+<img width="1809" height="949" alt="image" src="https://github.com/user-attachments/assets/746de479-c60f-4d5d-97f7-d184a9ca7570" />
+
+---
+
+
+# VI. CẤU HÌNH LIÊN KẾT N8N VỚI TELEGRAM VÀ GEMINI
+## BƯỚC 1. ĐĂNG KÝ TÀI KHOẢN ADMIN VÀ KÍCH HOẠT LICENSE N8N 
+### Truy cập vào trang quản trị n8n qua **n8n.tranthithuha.id.vn** vừa cấu hình. Điền thông tin đăng ký tài khoản Admin <br>
+<img width="1706" height="933" alt="image" src="https://github.com/user-attachments/assets/237167f1-02ab-44be-a66a-226e122d728c" /> <br>
+
+### Chọn Send me a free license key:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ad1f0ade-3dd1-492e-9d89-6e353d3309b1" /> <br>
+
+### Activate license key: 
+<img width="1916" height="946" alt="image" src="https://github.com/user-attachments/assets/7b6218b7-51dc-4672-8fa0-544b06ff7cb8" /> <br>
+
+<img width="1591" height="749" alt="image" src="https://github.com/user-attachments/assets/599364d5-b5d0-4fc0-b683-95146e41a221" /> <br>
+
+## BƯỚC 2. TẠO VÀ CẤU HÌNH NODE TELEGRAM TRIGGER
+
+
+
 
 
 
