@@ -152,8 +152,7 @@ Tạo bài viết trong wordpress giới thiệu bản thân sinh viên: <br>
 <img width="1008" height="879" alt="image" src="https://github.com/user-attachments/assets/1707f22d-c947-49f4-ac71-6e123564c717" /> <br>
 
 Tạo bài viết giới thiệu những kiến thức mà em đã học được trong môn học Phát triển ứng dụng với mã nguồn mở: <br>
-
-
+<img width="1580" height="863" alt="image" src="https://github.com/user-attachments/assets/0c01d911-03a3-4f1b-97cb-b11193a22924" />
 
 ---
 
@@ -172,6 +171,38 @@ Tạo bài viết giới thiệu những kiến thức mà em đã học đượ
 <img width="1591" height="749" alt="image" src="https://github.com/user-attachments/assets/599364d5-b5d0-4fc0-b683-95146e41a221" /> <br>
 
 ## BƯỚC 2. TẠO VÀ CẤU HÌNH NODE TELEGRAM TRIGGER
+
+### Tạo workflow
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/fc75cbcb-cb79-42e5-9e1c-85ecc90b0fa0" /> <br>
+
+<img width="1910" height="980" alt="image" src="https://github.com/user-attachments/assets/2325805d-162c-4d81-9ec0-fa4ece4774ad" />
+
+### Tạo bot trên ứng dụng Telegram
+- Mở Telegram trên điện thoại hoặc máy tính và tìm kiếm bot có tên `@BotFather` có tích xanh chính chủ
+- Bấm **Start** rồi gõ lệnh `/newbot` <br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e288793-8c69-4ca9-b0e6-3e25e736e3f1" /> <br>
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2fffb3e9-7850-41a0-983b-6ff5b45e1075" /> <br>
+
+- Đặt tên hiển thị (Name): Gõ tên bất kỳ. Ví dụ: `Thu Ha AI Automation`
+- Đặt tên định danh (Username): Viết liền không dấu, bắt buộc phải kết thúc bằng chữ `bot` hoặc `_bot`. Ví dụ: `thuha_ai_wp_bot` 
+- @BotFather sẽ gửi lại một tin nhắn chúc mừng, trong đó có một chuỗi ký tự gọi là HTTP API Token <br>
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/39cc1bfc-4db4-43da-bc7d-7e1c9b2e6bef" />
+
+### Cấu hình Node trên n8n
+<img width="1909" height="917" alt="image" src="https://github.com/user-attachments/assets/853b0bd0-7daa-471a-910f-e0297518b7cb" /> <br>
+
+<img width="1862" height="876" alt="image" src="https://github.com/user-attachments/assets/20aafebc-b66f-4b47-abb3-38b4314fb797" /> <br>
+
+<img width="1863" height="863" alt="image" src="https://github.com/user-attachments/assets/9ce7fe66-b2c8-4c7e-b5c3-e3c561a5aa5f" /> <br>
+
+Chat với bot mới lần đầu tiên: <br>
+<img width="1919" height="1058" alt="image" src="https://github.com/user-attachments/assets/149dc82a-0b58-4f91-901e-724d6ae5243c" />
+
+
+
+
+
 
 
 
