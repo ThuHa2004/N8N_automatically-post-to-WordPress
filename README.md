@@ -148,6 +148,12 @@ n8n.tranthithuha.id.vn
 Các bảng dữ liệu có sau khi cài wordpress:<br>
 <img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/7a7cdedd-0a84-4665-9c57-681b2fa094b5" /> <br>
 
+Tạo bài viết trong wordpress giới thiệu bản thân sinh viên: <br>
+<img width="1008" height="879" alt="image" src="https://github.com/user-attachments/assets/1707f22d-c947-49f4-ac71-6e123564c717" /> <br>
+
+Tạo bài viết giới thiệu những kiến thức mà em đã học được trong môn học Phát triển ứng dụng với mã nguồn mở: <br>
+
+
 
 ---
 
