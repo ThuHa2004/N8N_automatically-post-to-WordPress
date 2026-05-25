@@ -244,11 +244,13 @@ Chat với bot mới lần đầu tiên: <br>
 <img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/3186a383-7820-428b-a1b3-98e45f2cd990" /> <br>
 
 <img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/a09eb8bb-974a-4a44-aba2-f7aeab3113ba" />
-key: DklD XbTr gVHr bKXF S9dy ggiN
+
 
 ### Cấu hình tham số node
 - Wordpress URL: điền giá trị https://sub-domain1/ (giá trị này cũng khai báo trong biến môi trường WEBHOOK_URL của n8n) 
-Ignore SSL Issues (Insecure): TURN ON
+Ignore SSL Issues (Insecure): TURN ON <br>
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/99999d04-c386-402c-ae0d-d12186849a82" /> <br>
+
 Cấu hình node Create a Post: bấm nút Execute previous nodes để thấy trường giá trị của node trước trả về, kéo nội dung phần title (bên trái) vào trường title, tương tự kéo nội dung content vào content
 
 
