@@ -251,7 +251,24 @@ Chat với bot mới lần đầu tiên: <br>
 Ignore SSL Issues (Insecure): TURN ON <br>
 <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/99999d04-c386-402c-ae0d-d12186849a82" /> <br>
 
-Cấu hình node Create a Post: bấm nút Execute previous nodes để thấy trường giá trị của node trước trả về, kéo nội dung phần title (bên trái) vào trường title, tương tự kéo nội dung content vào content
+Cấu hình node Create a Post: bấm nút Execute previous nodes để thấy trường giá trị của node trước trả về, kéo nội dung phần title (bên trái) vào trường title, tương tự kéo nội dung content vào content <br>
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/2f240412-da22-4e5b-b338-602985eda227" /> <br>
+
+<img width="1900" height="968" alt="image" src="https://github.com/user-attachments/assets/517b9f62-eff6-4170-9016-76ea872b5020" /> <br>
+
+## PUBLISH FLOW
+PUBLISH flow (góc trên phải). Nút này thực hiện việc xuất bản flow <=> flow sẽ tự động thực thi khi thoả mãn điều kiện trigger <br>
+<img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/d7f2c4fa-6075-4fd8-8fae-aa32333303bf" />
+
+# DEMO KẾT QUẢ
+Trên trang wordpress admin của em hiện đang có 5 bài viết <br>
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/dc2f6c80-ca10-4d4e-80f4-eb74e84eb4be" /> <br>
+## Chat với bot trên telegram bằng điện thoại hoặc máy tính nội dung bài đăng bất kỳ 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/018b5be6-8ab6-46cb-8ea5-9445ceff8da0" />
+
+
+
+
 
 
 
