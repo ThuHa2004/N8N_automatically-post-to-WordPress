@@ -250,7 +250,11 @@ Ignore SSL Issues (Insecure): TURN ON <br>
 <img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/99999d04-c386-402c-ae0d-d12186849a82" /> <br>
 
 Cấu hình node Create a Post: bấm nút Execute previous nodes để thấy trường giá trị của node trước trả về, kéo nội dung phần title (bên trái) vào trường title, tương tự kéo nội dung content vào content <br>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/273d56b3-bb60-40e0-922b-58d3d9227453" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/273d56b3-bb60-40e0-922b-58d3d9227453" /> <br>
+
+Kết quả sau khi cấu hình xong chuỗi flow, được một bài đăng trên wordpress:
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/7425aed7-d4c4-4ecc-bacd-2f64e1e7a0eb" />
+
 
 
 ## PUBLISH FLOW
@@ -258,8 +262,7 @@ PUBLISH flow (góc trên phải). Nút này thực hiện việc xuất bản fl
 <img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/d7f2c4fa-6075-4fd8-8fae-aa32333303bf" />
 
 # DEMO KẾT QUẢ
-Trên trang wordpress admin của em hiện đang có 5 bài viết <br>
-<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/dc2f6c80-ca10-4d4e-80f4-eb74e84eb4be" /> <br>
+Sau khi đã publish flow thì có thể viết bất cứ bài viết gì chỉ cần chat với bot trên telegram chủ đề muốn viết sau đó bài viết sẽ được AI tự động viết và đăng lên wordpress
 ## Chat với bot trên telegram bằng điện thoại hoặc máy tính nội dung bài đăng bất kỳ 
 <img width="1920" height="1080" alt="Screenshot 2026-05-25 141620" src="https://github.com/user-attachments/assets/743bb1e9-a86b-47cf-839f-afbd31c0b57a" /> <br>
 
@@ -267,6 +270,7 @@ Trên trang wordpress admin của em hiện đang có 5 bài viết <br>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a3e90b6-d22e-48c4-98a1-669df8fd7ac6" />
 
+---
 
 # VII. NHẬN XÉT VÀ KẾT QUẢ ĐẠT ĐƯỢC
 Bài tập đã triển khai thành công mô hình hệ thống tự động hóa đăng bài viết bằng cách kết hợp nhiều công nghệ mã nguồn mở hiện đại gồm Docker, WordPress, MariaDB, phpMyAdmin, Cloudflare Tunnel và n8n.
